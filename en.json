@@ -1,0 +1,9 @@
+{
+  "welcome" : "welcome"  ,
+  "homepage" : "Login Page",
+  "username": "Username",
+  "password": "Enter your password",
+  "clear": "clear",
+  "login": "Login",
+  "show": "show"
+}
